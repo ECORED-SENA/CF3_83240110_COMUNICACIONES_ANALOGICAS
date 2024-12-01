@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Calidad de las señales analógicas**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_83240110_COMUNICACIONES_ANALOGICAS/#/](https://ecored-sena.github.io/CF3_83240110_COMUNICACIONES_ANALOGICAS/#/)
 
 #
 

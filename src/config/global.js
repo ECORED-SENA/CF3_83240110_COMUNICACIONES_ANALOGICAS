@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Calidad de las señales analógicas',
+    descripcionCurso:
+      'Los sistemas de comunicaciones analógicas requieren procesos de modulación y filtros para transmitir señales con calidad. Parámetros como el ruido, la relación señal a ruido, y la impedancia son fundamentales. La modulación AM y FM y los filtros para diversas frecuencias permiten una transmisión eficiente y minimizan interferencias, mejorando así la fidelidad de la señal transmitida.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,27 +32,20 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Parámetros de calidad y transmisión',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Modulación',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Filtros y receptores de radiofrecuencia',
         desarrolloContenidos: true,
       },
     ],
