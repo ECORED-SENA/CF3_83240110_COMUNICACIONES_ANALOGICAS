@@ -146,7 +146,8 @@ export default {
         },
         {
           id: 6,
-          texto: '¿En qué sistema se emplean los filtros antialiasing?',
+          texto:
+            '¿En qué sistema se emplean los filtros <em>antialiasing</em>?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

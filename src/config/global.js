@@ -102,7 +102,7 @@ export default {
     {
       tema: 'Parámetros de calidad y transmisión',
       referencia:
-        'javier6 diaz. (2024). Parámetros de Calidad de transmisión. [Archivo de video] Youtube.',
+        'javier6 diaz. (2024). Parámetros de Calidad de transmisión. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=VjCrAjOcYB8&ab_channel=javier6diaz',
@@ -110,7 +110,7 @@ export default {
     {
       tema: 'Modulación',
       referencia:
-        'Universitat Politècnica de València - UPV. (2021). Introducción a las radiocomunicaciones. Modulaciones analógicas | 35/97 | UPV. [Archivo de video] Youtube.',
+        'Universitat Politécnica de Valéncia - UPV. (2021). Introducción a las radiocomunicaciones. Modulaciones analógicas | 35/97 | UPV. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=W-4hvDam7Uo&ab_channel=UniversitatPolit%C3%A8cnicadeVal%C3%A8ncia-UPV',
@@ -118,7 +118,7 @@ export default {
     {
       tema: 'Filtros y receptores de radiofrecuencia',
       referencia:
-        'Universitat Politècnica de València - UPV. (2021). Emisores y receptores. Modulación de frecuencia (FM) | | UPV [Archivo de video] Youtube.',
+        'Universitat Politécnica de Valéncia - UPV. (2021). Emisores y receptores. Modulación de frecuencia (FM) | | UPV [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=tgf3CuUuBj4&ab_channel=UniversitatPolit%C3%A8cnicadeVal%C3%A8ncia-UPV',
@@ -272,6 +272,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Luis Gabriel Urueta Álvarez',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

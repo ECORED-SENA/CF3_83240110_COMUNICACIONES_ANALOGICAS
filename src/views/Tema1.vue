@@ -19,7 +19,7 @@
         
         .row.mb-4
           .col-lg-8(data-aos="fade-right")
-            p.mb-4 Interferencia no deseada introducida en el canal de comunicaciones y mezclada con una señal. Se genera por fuentes externas y fuentes internas del sistema de comunicaciones. Los ruidos generados por fuentes propias del sistema se pueden controlar desde el diseño del sistema y la elección de los circuitos analógicos que lo conforman. La absorción del ruido externo se logra, evitando la salida de interferencias al exterior.
+            p.mb-4 Interferencia no deseada, introducida en el canal de comunicaciones y mezclada con una señal. Se genera por fuentes externas y fuentes internas del sistema de comunicaciones. Los ruidos generados por fuentes propias del sistema se pueden controlar desde el diseño del sistema y la elección de los circuitos analógicos que lo conforman. La absorción del ruido externo se logra, evitando la salida de interferencias al exterior.
             
             p.mb-0 Al amplificar la señal en un medio de transmisión, el ruido que contenga dicha señal se amplificará; lo que obliga a utilizar una mayor cantidad de amplificadores para transportar la señal analógica.
 
@@ -121,7 +121,7 @@
                   img.mx-auto(src="@/assets/curso/temas/13.svg",style="max-width: 304px;")
           
           .fondo-color-sistema-l.p-4.borde-12.mb-2
-            p.mb-0 NF = Relación señal a ruido de salida
+            p.mb-0 NF = Relación señal a ruido de salida.
           
           .row.justify-content-center
             .col-lg-10

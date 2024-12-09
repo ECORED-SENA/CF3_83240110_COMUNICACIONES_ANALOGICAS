@@ -23,7 +23,7 @@
         
         p.mb-4(data-aos="fade-up") A continuación, se presentan las principales características de la modulación:
 
-        .row.justify-content-center
+        .row.justify-content-center.mb-4
           .col-lg-10(data-aos="fade-right")
             .fondo-color-sistema-m.borde-12.p-4.p-lg-5
               .row.align-items-center
@@ -46,26 +46,24 @@
                       span Disminuye el tamaño de las antenas.
                     li.d-flex.mb-2
                       i.fas.fa-check-circle.c-color-sistema-n
-                      span Minimiza interferencia entre canales.
+                      span Minimiza la interferencia entre canales.
                     li.d-flex.mb-2
                       i.fas.fa-check-circle.c-color-sistema-n
-                      span Ordena el radioespectro al seleccionar canales para cada información.
+                      span Ordena el radio espectro al seleccionar canales para cada información.
                     li.d-flex.mb-2
                       i.fas.fa-check-circle.c-color-sistema-n
                       span Protege la información de las afectaciones por ruido.
     
         .row.mb-4(data-aos="fade-right")
-          .col-lg-7.mb-4.mb-lg-0
-            .titulo-decorativo.mt-4.mt-lg-2.mb-4
+          .col-lg-12
+            .titulo-decorativo.mb-5
               .cont-figura
                 img(src="@/assets/curso/temas/img-tit-dec.svg")
               .cont-text 
                 h3 Tipos de modulación
             
             p.mb-0 Existen diferentes tipos de modulación que se utilizan en comunicaciones analógicas:
-          .col-lg-5.position-relative
-            figure.figura-dec-1
-              img.mx-auto(src="@/assets/curso/temas/28.svg",style="max-width: 505px;")
+          
     
         .fondo-color-sistema-p.p-4.mb-2
           .row
