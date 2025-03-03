@@ -2,7 +2,6 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
@@ -30,7 +29,7 @@
           img.mx-auto(src="@/assets/curso/temas/3.png",style="max-width: 400px;")
       .col-lg-8(data-aos="fade-left")
         p.mb-0 Para complementar estos procesos, se utilizan filtros que permiten el paso, rechazo o ajuste de ciertas frecuencias, contribuyendo a una transmisión de alta fidelidad. La impedancia y otros parámetros de transmisión también son factores clave en el diseño de estos sistemas, ya que influyen en la forma en que las señales viajan a través de distintos medios, garantizando que lleguen al receptor de forma clara y con la mínima distorsión posible.
-    
+
 </template>
 
 <script>

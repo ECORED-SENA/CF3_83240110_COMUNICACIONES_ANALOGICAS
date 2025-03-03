@@ -145,7 +145,6 @@
     
     p.mb-0(data-aos="fade-right") Circuitos integrados que convierten un voltaje de entrada de una señal análoga en un tren de pulsos cuya frecuencia de salida es similar al nivel de entrada, es decir, su función es la de convertir una señal analógica a una serie de pulsos.
 
-
 </template>
 
 <script>

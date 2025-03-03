@@ -255,25 +255,15 @@
               .borde-10.fondo-color-secundario.p-4
                 figure.mb-4.mb-lg-0
                   img.mx-auto(src="@/assets/curso/temas/25.svg",style="max-width: 210px;")
-
-
+ 
 </template>
 
 <script>
 export default {
   name: 'Tema1',
-  components: {},
   data: () => ({
-    // variables de vue
+    mostrarIndicadorTarjetaAudio: true,
   }),
-  mounted() {
-    this.$nextTick(() => {
-      this.$aosRefresh()
-    })
-  },
-  updated() {
-    this.$aosRefresh()
-  },
 }
 </script>
 

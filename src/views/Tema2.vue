@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.pb-0.pb-md-0
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido.mb-0(data-aos="flip-up")
       .titulo-principal__numero
         span 2
@@ -151,7 +151,6 @@
               figure.mb-4
                 img.mx-auto(src="@/assets/curso/temas/38.png")
               p.mb-0 Recuperación de la cinta magnética sin distorsión extrema.
-               
 
 </template>
 

@@ -9,15 +9,19 @@
   </template>
 
 <script>
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
+  components: {
+    Actividad,
+  },
   data: () => ({
     cuestionario: {
       tema: 'Parámetros de calidad en señales analógicas',
       titulo: 'Cuestionario',
       introduccion:
-        'Evaluar los conceptos fundamentales de la calidad en las señales analógicas, incluyendo la modulación, los filtros de radiofrecuencia, la impedancia y los parámetros clave como el ruido y la relación señal a ruido.',
-      barajarPreguntas: false,
+        '<b> Objetivo:</b> evaluar los conceptos fundamentales de la calidad en las señales analógicas, incluyendo la modulación, los filtros de radiofrecuencia, la impedancia y los parámetros clave como el ruido y la relación señal a ruido.',
+      barajarPreguntas: true,
       preguntas: [
         {
           id: 1,
